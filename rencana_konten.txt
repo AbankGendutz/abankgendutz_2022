@@ -1,5 +1,8 @@
 Rencana Konten
 Membuat aplikasi
   pos
+    swif
+    java
 Membuat website
   toko online
+    laravel
