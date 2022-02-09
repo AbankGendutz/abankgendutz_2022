@@ -1,7 +1,9 @@
 Rencana Konten
 Membuat aplikasi
   pos
-    flutter
+    swif
+    java
 Membuat website
   toko online
-    code igniter
+    laravel
+
